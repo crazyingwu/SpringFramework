@@ -1,4 +1,4 @@
-package mySpring.mvc.view;
+package com.dragonSpringCore.mvc.view;
 
 /*
 * 控制器执行完毕后返回，供视图解析器使用

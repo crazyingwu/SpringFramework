@@ -7,7 +7,7 @@
 
   <servlet>
     <servlet-name>SpringMVC</servlet-name>
-    <servlet-class>mySpring.mvc.controller.MyDispatchServlet</servlet-class>
+    <servlet-class>com.dragonSpringCore.mvc.controller.MyDispatchServlet</servlet-class>
     <init-param>
       <param-name>contextConfigLocation</param-name>
       <param-value>WEB-INF/applicationContext.properties</param-value>

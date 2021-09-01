@@ -1,4 +1,4 @@
-package mySpring.mvc.view;
+package com.dragonSpringCore.mvc.view;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

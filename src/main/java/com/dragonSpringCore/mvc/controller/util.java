@@ -1,9 +1,9 @@
-package mySpring.mvc.controller;
+package com.dragonSpringCore.mvc.controller;
 
-import mySpring.annotation.Controller;
-import mySpring.annotation.RequestMapping;
-import mySpring.annotation.RequestParam;
-import mySpring.mvc.model.Model;
+import com.dragonSpringCore.annotation.Controller;
+import com.dragonSpringCore.annotation.RequestParam;
+import com.dragonSpringCore.annotation.RequestMapping;
+import com.dragonSpringCore.mvc.model.Model;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

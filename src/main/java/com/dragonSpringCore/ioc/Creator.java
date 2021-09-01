@@ -1,7 +1,7 @@
-package mySpring.ioc;
+package com.dragonSpringCore.ioc;
 
-import mySpring.annotation.Component;
-import mySpring.annotation.Controller;
+import com.dragonSpringCore.annotation.Component;
+import com.dragonSpringCore.annotation.Controller;
 
 import java.util.List;
 import java.util.Map;

@@ -1,13 +1,14 @@
-package mySpring.annotation;
+package com.dragonSpringCore.annotation;
 
 import java.lang.annotation.*;
 
 /**
- * 组件注解，被标记的类将交由框架管理
+ * 控制类注解，被标记的类将作为框架中的控制类
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
 @Documented
-public @interface Component {
+public @interface Controller {
     String value() default "";
 }
+

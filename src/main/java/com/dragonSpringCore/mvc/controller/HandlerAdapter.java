@@ -1,8 +1,8 @@
-package mySpring.mvc.controller;
+package com.dragonSpringCore.mvc.controller;
 
-import mySpring.mvc.model.FileModel;
-import mySpring.mvc.model.Model;
-import mySpring.mvc.view.ModelAndView;
+import com.dragonSpringCore.mvc.model.FileModel;
+import com.dragonSpringCore.mvc.view.ModelAndView;
+import com.dragonSpringCore.mvc.model.Model;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

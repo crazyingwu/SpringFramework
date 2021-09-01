@@ -1,8 +1,8 @@
-package mySpring.mvc.controller;
+package com.dragonSpringCore.mvc.controller;
 
-import mySpring.ioc.MyContext;
-import mySpring.mvc.view.ModelAndView;
-import mySpring.mvc.view.ViewResolver;
+import com.dragonSpringCore.ioc.MyContext;
+import com.dragonSpringCore.mvc.view.ModelAndView;
+import com.dragonSpringCore.mvc.view.ViewResolver;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -11,7 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.Objects;
 import java.util.Properties;
 
 

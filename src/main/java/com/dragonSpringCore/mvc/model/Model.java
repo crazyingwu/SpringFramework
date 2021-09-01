@@ -1,4 +1,4 @@
-package mySpring.mvc.model;
+package com.dragonSpringCore.mvc.model;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
